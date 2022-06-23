@@ -25,3 +25,7 @@ This command will leverage an already deployed SmartWeave contract to create and
 - Open the code for the [web page](pages/index.js) and replace `pstContractId` with your own contract ID.
 - Run `npm run dev` and wait for the server to start
 - Click the `Send Fee!` button and wait for an ArConnect popup. Once the transaction is signed, it will be posted and the chosen weighted PST holder will receive 0.1 AR.
+
+### Links
+
+- [Companion Video](https://youtu.be/Kx1m9DlviEo)
