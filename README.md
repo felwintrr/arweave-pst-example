@@ -28,4 +28,5 @@ This command will leverage an already deployed SmartWeave contract to create and
 
 ### Links
 
+- [Companion Article](https://permanotes.app/#/notes/8Mpj_EhG312dW4Eh1sKUplqHZxkefUTUep0-XdrZfKc)
 - [Companion Video](https://youtu.be/Kx1m9DlviEo)
